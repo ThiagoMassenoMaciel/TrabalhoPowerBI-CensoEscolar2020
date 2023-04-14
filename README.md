@@ -8,9 +8,9 @@ uma maneira que fique mais fácil a sua visualização. Estes dados são de font
 com eles pretendo aplicar os conceitos que aprendi sobre a área de análise de dados de 
 acordo com o Mestre em Ciência da Computação Alex Souza.
 
-Segue o link da fonte dos dados: https://youtu.be/2VSF4IaF_OE
+Segue o link da fonte dos dados:https://github.com/aasouzaconsult/business_intelligence/blob/main/Censo2020_inep.csv
 
-#:: Especificações de Requisitos ::
+#:: Especificações de Requisitos :
 
 Cor do Background : #446a5b
 Cor da fonte : branca
