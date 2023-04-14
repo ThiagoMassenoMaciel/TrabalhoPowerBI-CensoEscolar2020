@@ -35,3 +35,4 @@ Título : Censo Escolar 2020
 	-Top 10 estados por numero de escolas
 
 	-Botão com link clicável para o site INEP(https://www.gov.br/inep/pt-br) 
+#Visualiza r o Power BI link: https://app.powerbi.com/groups/me/reports/78c2aace-46f1-45b1-83b8-fb4d635d524c/ReportSection
